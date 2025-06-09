@@ -1,11 +1,11 @@
-# Telecom-Customer-Churn-Analysis
+# Telecom-Customer-Churn-Analysis 📊💡
 ----
-## Objective:
+## Objective:🔎
 
 The analysis explores customer chum patterns, focusing on various factors such as payment methods, contract types, tenure, and demographic attributes. The goal is to identify which factors are most strongly associated with higher chum rates to guide customer retention strategies.
 
 ----
-## Key Insights & Findings:
+## Key Insights & Findings:🔎📝
 
 #### Contract Type and Churn:
 
@@ -40,7 +40,7 @@ The analysis explores customer chum patterns, focusing on various factors such a
 ○ Implication: Special retention programs and targeted customer service for senior customers may help reduce churn in this demographic.
 
 -----
-## Visualizations & Data Insights:
+## Visualizations & Data Insights:📈 
 
 #### Bar Charts and Line Graphs:
 
@@ -57,7 +57,7 @@ The analysis explores customer chum patterns, focusing on various factors such a
 ○ Tenure: 50% churn in the first year, dropping to 15% after three years.
 
 ----
-## Recommendations:
+## Recommendations: 📝💡
 
 ○ Promote Long-Term Contracts: Offer incentives for customers to commit to longer contracts to reduce churn.
 
